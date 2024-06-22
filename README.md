@@ -1,7 +1,9 @@
 > [!NOTE]
 > Typescript Data Types
 
-| Built-in Data Type | keyword |  Description|  
+
+| Built-in Data Type | keyword | Description | 
+| -------------------| ------- | ----------- |
 |Number|number|It is used to represent both Integer as well as Floating-Point numbers|
 |Boolean|boolean|Represents true and false|
 |String|string|	It is used to represent a sequence of characters|

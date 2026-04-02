@@ -11,3 +11,4 @@
 |Null|null|It is used when an object does not have any value|
 |Undefined|undefined|Denotes value given to uninitialized variable|
 |Any||If vaanyriable is declared with any data-type then any type of value can be assigned to that variable|
+<!-- 2026-04-02T11:03:07+06:00 -->
